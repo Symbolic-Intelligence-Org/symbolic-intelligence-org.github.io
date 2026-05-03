@@ -3,7 +3,7 @@ type = "card"
 title = "FactPy"
 subtitle = "FactPy is a deterministic reasoning kernel for AI agents. Four engines, one API, append-only memory, cryptographic provenance." # optional; supports Markdown
 date = "2026" # optional
-link = "https://example.com" # optional
+link = "https://factpy.docs.symbolic-intelligence.de" # optional
 
 tags = ["python"] # optional
 featured = false  # optional

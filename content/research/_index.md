@@ -16,3 +16,10 @@ copy = true
 comment = false
 reaction = false
 +++
+
+{% mermaid() %}
+pie title Something
+    "Zhenzhi" : 387
+    "Raphael" : 20
+
+{% end %}

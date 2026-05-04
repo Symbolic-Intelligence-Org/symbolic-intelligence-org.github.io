@@ -8,7 +8,7 @@ insert_anchor_links = "none"
 lang = 'en'
 
 title = "Open Source Software"
-subtitle = ""
+subtitle = "The projects below are developed in the open, maintained actively, and free for anyone to use or contribute to."
 
 math = true
 mermaid = true

@@ -8,12 +8,4 @@ link = "https://factpy.docs.symbolic-intelligence.de" # optional
 tags = ["python"] # optional
 featured = false  # optional
 
-content =  """
-
-# Getting Started
-
-## Installation
-```sh
-pip install factpy-kernel
-```
-"""
+content =  ""

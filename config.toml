@@ -42,7 +42,6 @@ anchors = "on"
 
 sections = [
   { name = "Open Source", path = "/oss", is_external = false },
-  { name = "Research", path = "/research", is_external = false },
   { name = "Consulting", path = "/consulting", is_external = false },
 
 ]

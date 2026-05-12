@@ -25,10 +25,4 @@ recent_more_text = "more »"
 date_format = "%b %-d, %Y"
 +++
 
-We build cognitive infrastructure for AI systems. Our core technology is a deterministic reasoning engine with append-only memory and cryptographic provenance — the missing layer between LLMs and the decisions enterprises need to defend. Three ways to work with us:
-
-**Open Source:** Our reasoning kernel is open. Four engines behind one API, evidence trees as first-class outputs, a fact store that never forgets. Build with it, extend it, run it anywhere.
-
-**R&D:** We push the boundary of what symbolic reasoning can do for AI agents. New extraction techniques, multi-agent consistency, emergent rule discovery. Our research becomes the next version of the kernel.
-
-**Consulting:** We help organizations bring auditable, reconstructable AI into production — for regulated industries, multi-agent systems, and any context where "the AI did it" is not an acceptable answer.
+We build reasoning infrastructure for AI systems: deterministic inference, append-only memory, and cryptographic provenance for organizations that need AI outputs to be auditable, reconstructable, and defensible. Our work combines an open reasoning kernel, applied R&D in symbolic and multi-agent reasoning, and production consulting for regulated or high-stakes environments.

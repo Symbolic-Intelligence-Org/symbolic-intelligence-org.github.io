@@ -17,9 +17,4 @@ comment = false
 reaction = false
 +++
 
-{% mermaid() %}
-pie title Something
-    "Zhenzhi" : 387
-    "Raphael" : 20
-
-{% end %}
+# Sheaf-Theoretic Context Semantics for Auditable Multi-Agent Reasoning

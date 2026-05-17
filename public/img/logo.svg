@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-300 -200 800 700">
+  <rect x="-250" y="200" width="700" height="300" style="fill: rgb(46, 46, 46);"/>
+  <ellipse style="paint-order: stroke; stroke-width: 96px; fill: rgb(46, 46, 46); stroke: rgb(255, 255, 255);" cx="100" rx="150" ry="150" cy="200">
+    <animateMotion path="M 0 -200 L 0 0" calcMode="spline" begin="0.19s" dur="2s" fill="freeze" keyTimes="0; 1" keyPoints="0; 1" keySplines="0 0 0.58 1"/>
+  </ellipse>
+</svg>
